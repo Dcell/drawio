@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T05:55:04.182Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.3" etag="iPln1YPKyNerJyY6Pr0Z" type="github"><diagram id="JoMTXiHfOhuPp_pBb8iJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-30T06:21:14.676Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zcdosLrM2Y2uxbALL21S" version="14.5.3" type="github">
+  <diagram id="JoMTXiHfOhuPp_pBb8iJ" name="第 1 页">
+    <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-1" value="JS Bundle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006D77;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-2" value="RN Bundle" style="whiteSpace=wrap;html=1;fillColor=#006D77;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-3" value="Hybrid-box" style="whiteSpace=wrap;html=1;fillColor=#EDF6F9;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-4" value="RN-box" style="whiteSpace=wrap;html=1;fillColor=#EDF6F9;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-5" value="Flutter-box" style="whiteSpace=wrap;html=1;fillColor=#EDF6F9;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-6" value="基建API" style="whiteSpace=wrap;html=1;fillColor=#E29578;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-7" value="bridge-native" style="whiteSpace=wrap;html=1;fillColor=#FFDDD2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-8" value="微容器入口协议" style="whiteSpace=wrap;html=1;fillColor=#83C5BE;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-9" value="Flutter Bundle" style="whiteSpace=wrap;html=1;fillColor=#006D77;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299" y="340" as="sourcePoint" />
+            <mxPoint x="299" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-13" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459.5" y="340" as="sourcePoint" />
+            <mxPoint x="459.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299" y="480" as="sourcePoint" />
+            <mxPoint x="299" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.5" y="340" as="sourcePoint" />
+            <mxPoint x="139.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-16" value="bridge-js" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-17" value="bridge-RN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-18" value="bridge-flutter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="467" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F1QFF-NNQ-U6RUkxFtT4-19" value="runtime/java 反射" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
