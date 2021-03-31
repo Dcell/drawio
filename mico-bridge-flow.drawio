@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T01:21:54.304Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.3" etag="sd3aM-9fC8VosA2SshZf" type="github"><diagram id="fhtEPI58PUwy17d80ZLJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-31T03:02:12.209Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="s9athKIR0qz74wgpT816" version="14.5.3" type="github">
+  <diagram id="fhtEPI58PUwy17d80ZLJ" name="第 1 页">
+    <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-10" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-1" value="box" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-6" value="invoke" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="2E87HSGrslnFpH1Q4b2m-1" target="2E87HSGrslnFpH1Q4b2m-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <mxPoint x="130" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-2" value="bridge-native" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-7" value="runtime/反射" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="2E87HSGrslnFpH1Q4b2m-2" target="2E87HSGrslnFpH1Q4b2m-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="90" as="sourcePoint" />
+            <mxPoint x="130" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-3" value="基建API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-5" value="JSON-RPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="2E87HSGrslnFpH1Q4b2m-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="400" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2E87HSGrslnFpH1Q4b2m-9" value="callback" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.5" y="170" as="sourcePoint" />
+            <mxPoint x="120" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
