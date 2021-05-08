@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T09:32:33.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="EcIcJ6Z8jjt96VrrQApI" version="14.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-08T09:34:45.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="rRAcGQvEiNjXipOlYN7U" version="14.6.6" type="github" pages="3">
   <diagram id="JoMTXiHfOhuPp_pBb8iJ" name="第 1 页">
     <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hjtopL6CsBfBR1J5f7IC" name="第 3 页">
-    <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="Xcs8l30UtsmU1XhOhAEq-0" />
         <mxCell id="Xcs8l30UtsmU1XhOhAEq-1" parent="Xcs8l30UtsmU1XhOhAEq-0" />
@@ -141,19 +141,19 @@
         <mxCell id="Xcs8l30UtsmU1XhOhAEq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Xcs8l30UtsmU1XhOhAEq-1" source="Xcs8l30UtsmU1XhOhAEq-3" target="Xcs8l30UtsmU1XhOhAEq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xcs8l30UtsmU1XhOhAEq-3" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="Xcs8l30UtsmU1XhOhAEq-1">
+        <mxCell id="Xcs8l30UtsmU1XhOhAEq-3" value="仓库" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="Xcs8l30UtsmU1XhOhAEq-1">
           <mxGeometry x="430" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xcs8l30UtsmU1XhOhAEq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Xcs8l30UtsmU1XhOhAEq-1" source="Xcs8l30UtsmU1XhOhAEq-4" target="Xcs8l30UtsmU1XhOhAEq-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xcs8l30UtsmU1XhOhAEq-4" value="debug" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="Xcs8l30UtsmU1XhOhAEq-1">
+        <mxCell id="Xcs8l30UtsmU1XhOhAEq-4" value="启动debug" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="Xcs8l30UtsmU1XhOhAEq-1">
           <mxGeometry x="270" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xcs8l30UtsmU1XhOhAEq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Xcs8l30UtsmU1XhOhAEq-1" source="Xcs8l30UtsmU1XhOhAEq-5" target="Xcs8l30UtsmU1XhOhAEq-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xcs8l30UtsmU1XhOhAEq-5" value="下载调试工程" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="Xcs8l30UtsmU1XhOhAEq-1">
+        <mxCell id="Xcs8l30UtsmU1XhOhAEq-5" value="下载工程" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="Xcs8l30UtsmU1XhOhAEq-1">
           <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xcs8l30UtsmU1XhOhAEq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Xcs8l30UtsmU1XhOhAEq-1" source="Xcs8l30UtsmU1XhOhAEq-6" target="Xcs8l30UtsmU1XhOhAEq-7">
