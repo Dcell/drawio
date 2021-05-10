@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T07:42:37.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Fy4xLBrq5dRQO66usRFF" version="14.6.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-10T08:02:44.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ywykv00tffWSFIxkfmIN" version="14.6.11" type="github" pages="5">
   <diagram id="JoMTXiHfOhuPp_pBb8iJ" name="第 1 页">
     <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
       <root>
@@ -248,6 +248,115 @@
         </mxCell>
         <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-31" value="flutter 引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
           <mxGeometry x="474" y="380" width="106" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gP0CLBlVVYX-RnodwrKi" name="第 5 页">
+    <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="450" math="0" shadow="0">
+      <root>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-0" />
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-1" parent="tLZ_TNDOCLRj2Lcb8P-B-0" />
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-2" value="Application" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="40" y="170" width="70" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-3" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.application;part=1;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-2">
+          <mxGeometry x="0.5" width="50" height="40" relative="1" as="geometry">
+            <mxPoint x="-25" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-16" value="" style="group" vertex="1" connectable="0" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="230" y="50" width="320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-7" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-16">
+          <mxGeometry x="80" y="50" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-8" value="WebView容器组件" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-7">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-10" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-16">
+          <mxGeometry x="80" y="140" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-11" value="React-native容器组件" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-10">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-12" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-16">
+          <mxGeometry x="80" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-13" value="Flutter 容器组件" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-12">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-14" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.select;fillColor=#0080f0;strokeColor=#ffffff;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-16">
+          <mxGeometry x="32" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-17" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;" edge="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="122" y="217" as="sourcePoint" />
+            <mxPoint x="222" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="230" y="50" width="320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-18" value="选择集成容器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="125" y="190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-19" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;" edge="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="571" y="220" as="sourcePoint" />
+            <mxPoint x="671" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-20" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="675" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-21" value="MCCS" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_vision_api;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-20">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-22" value="应用列表" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="690" y="178" width="70" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-23" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.list;part=1;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-22">
+          <mxGeometry x="0.5" width="44.5" height="50" relative="1" as="geometry">
+            <mxPoint x="-22.25" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-24" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;" edge="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="710" y="178" as="sourcePoint" />
+            <mxPoint x="710" y="108" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-25" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;strokeColor=#34A853;dashed=0;" edge="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="740" y="110" as="sourcePoint" />
+            <mxPoint x="740" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-26" value="应用" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;fillColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="900" y="175" width="70" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-27" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.phone;part=1;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-26">
+          <mxGeometry x="0.5" width="32" height="50" relative="1" as="geometry">
+            <mxPoint x="-16" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-28" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;strokeWidth=2;endSize=4;startSize=4;dashed=0;strokeColor=#4284F3;" edge="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="780" y="220" as="sourcePoint" />
+            <mxPoint x="880" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tLZ_TNDOCLRj2Lcb8P-B-29" value="选择打开应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="tLZ_TNDOCLRj2Lcb8P-B-1">
+          <mxGeometry x="790" y="190" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
