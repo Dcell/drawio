@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T00:50:47.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="DcqboHSWKjaLoQuz26uL" version="14.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-10T07:42:37.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Fy4xLBrq5dRQO66usRFF" version="14.6.11" type="github" pages="4">
   <diagram id="JoMTXiHfOhuPp_pBb8iJ" name="第 1 页">
     <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
       <root>
@@ -185,6 +185,69 @@
         </mxCell>
         <mxCell id="Xcs8l30UtsmU1XhOhAEq-19" value="Hot reload" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Xcs8l30UtsmU1XhOhAEq-1">
           <mxGeometry x="415" y="397" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6XbTowvJFQecDmY5XVep" name="第 4 页">
+    <mxGraphModel dx="1426" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-0" />
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-1" parent="ZPO6H2UmI4M9_Ne7fKs6-0" />
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-3" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="174" y="50" width="250" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-5" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.appBar;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="192" y="127" width="214" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-6" value="CARRIER" style="shape=rect;align=left;fontSize=8;spacingLeft=24;fontSize=4;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-5">
+          <mxGeometry y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-7" value="11:55PM" style="shape=rect;fontSize=8;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-5">
+          <mxGeometry x="0.5" y="0.5" width="50" height="13" relative="1" as="geometry">
+            <mxPoint x="-30" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-8" value="98%" style="shape=rect;align=right;fontSize=8;spacingRight=19;fontSize=6;fontColor=#aaaaaa;strokeColor=none;fillColor=none;spacingTop=4;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-5">
+          <mxGeometry x="1" y="0.5" width="45" height="13" relative="1" as="geometry">
+            <mxPoint x="-45" y="-6.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-13" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="190" y="150" width="218" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="192" y="181" width="214" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-24" value="容器" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};dashed=1;fillColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="60" y="258" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-25" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#000000;" edge="1" target="ZPO6H2UmI4M9_Ne7fKs6-24" parent="ZPO6H2UmI4M9_Ne7fKs6-1" source="ZPO6H2UmI4M9_Ne7fKs6-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-56" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-26" value="原生导航栏" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};dashed=1;fillColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="447" y="118" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-27" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#000000;exitX=0.932;exitY=0.224;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="ZPO6H2UmI4M9_Ne7fKs6-26" parent="ZPO6H2UmI4M9_Ne7fKs6-1" source="ZPO6H2UmI4M9_Ne7fKs6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="434" y="200" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-29" value="webView引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="474" y="190" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-30" value="React-Native引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="474" y="285" width="106" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPO6H2UmI4M9_Ne7fKs6-31" value="flutter 引擎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="ZPO6H2UmI4M9_Ne7fKs6-1">
+          <mxGeometry x="474" y="380" width="106" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
