@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T08:37:03.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="H6udE-lequ_DDIpFbueQ" version="15.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-02T08:48:18.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="KK3RAlXCL9XUgrz_NmBJ" version="15.3.7" type="github" pages="3">
   <diagram id="xKQcsoYSkwLZ2shHraXC" name="第 1 页">
     <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="0" shadow="0">
       <root>
@@ -93,6 +93,91 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="-390" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xQgk8bs1fKOCMzIVSr-Y" name="第 3 页">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-0" />
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-1" parent="IEeMm_Mg5K9bquaaoVPW-0" />
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-2" value="待解锁状态" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="180" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-3" value="预设置了密码串" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="180" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-6" target="IEeMm_Mg5K9bquaaoVPW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-6" target="IEeMm_Mg5K9bquaaoVPW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-6" value="检测待解锁界面上的触摸操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="170" y="260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-8" value="穿戴设备生成随机9宫图" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="330" y="260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-10" target="IEeMm_Mg5K9bquaaoVPW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-10" value="终端设备生成暗格9宫图" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="170" y="360" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-12" target="IEeMm_Mg5K9bquaaoVPW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IEeMm_Mg5K9bquaaoVPW-15">
+          <mxGeometry x="-0.84" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-12" target="IEeMm_Mg5K9bquaaoVPW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IEeMm_Mg5K9bquaaoVPW-18">
+          <mxGeometry x="0.1556" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-12" value="输入密码是否和预设密码一样" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="175" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-13" value="解锁终端" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="170" y="590" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-17" target="IEeMm_Mg5K9bquaaoVPW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IEeMm_Mg5K9bquaaoVPW-20">
+          <mxGeometry x="0.4" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IEeMm_Mg5K9bquaaoVPW-1" source="IEeMm_Mg5K9bquaaoVPW-17" target="IEeMm_Mg5K9bquaaoVPW-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IEeMm_Mg5K9bquaaoVPW-24">
+          <mxGeometry x="-0.28" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-17" value="是否超过最高错误密码次" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="40" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IEeMm_Mg5K9bquaaoVPW-19" value="锁死设备" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="IEeMm_Mg5K9bquaaoVPW-1">
+          <mxGeometry x="35" y="590" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
