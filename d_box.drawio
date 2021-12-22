@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T07:40:47.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.3" etag="ExRuuxIi482mQUEVMsVk" type="github"><diagram id="bVIeI03eJK58zHu0qnsN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-22T08:09:08.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jEc4iVeXkMIA_1t1EGAE" version="16.0.3" type="github">
+  <diagram id="bVIeI03eJK58zHu0qnsN" name="第 1 页">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-1" value="Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A4D4B4;strokeColor=none;shadow=1;fontFamily=Verdana;fontSize=20;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=20;rounded=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="hzWrZhBhgTY0wDpomXLS-2" target="hzWrZhBhgTY0wDpomXLS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-2" value="SOA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CA054D;strokeColor=none;shadow=1;fontFamily=Verdana;fontSize=20;fontStyle=0;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;glass=0;sketch=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;strokeWidth=2;fillColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hzWrZhBhgTY0wDpomXLS-4" target="hzWrZhBhgTY0wDpomXLS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="300" />
+              <mxPoint x="380" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-4" value="原生容器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3B1C32;strokeColor=none;shadow=1;fontFamily=Verdana;fontSize=20;fontStyle=0;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;strokeWidth=2;fillColor=default;" edge="1" parent="1" source="hzWrZhBhgTY0wDpomXLS-5" target="hzWrZhBhgTY0wDpomXLS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="300" />
+              <mxPoint x="380" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-5" value="H5容器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCF9C;strokeColor=none;shadow=1;fontFamily=Verdana;fontSize=20;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;strokeWidth=2;fillColor=default;" edge="1" parent="1" source="hzWrZhBhgTY0wDpomXLS-6" target="hzWrZhBhgTY0wDpomXLS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="300" />
+              <mxPoint x="380" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-6" value="RN容器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B96D40;strokeColor=none;shadow=1;fontFamily=Verdana;fontSize=20;fontStyle=0;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=Verdana;fontSize=20;fontColor=#FFFFFF;strokeWidth=2;fillColor=default;" edge="1" parent="1" source="hzWrZhBhgTY0wDpomXLS-8" target="hzWrZhBhgTY0wDpomXLS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="300" />
+              <mxPoint x="380" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-8" value="Flutter容器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A4D4B4;strokeColor=none;shadow=1;fontFamily=Verdana;fontSize=20;fontStyle=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hzWrZhBhgTY0wDpomXLS-22" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;应用生命周期管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;推送管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;路由管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;容器管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;跨平台引擎管理&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;font-size: 13px&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;fontFamily=Verdana;fontSize=13;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="475" y="125" width="265" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
