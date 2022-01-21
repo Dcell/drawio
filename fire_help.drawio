@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T03:30:01.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.3.0" etag="r9oQMbohKpk4lYY0jC3A" type="github"><diagram id="HyHHXCKGrjpw7wuj8hK8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-21T03:33:05.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FS9sY5WAaqMJoqCyG8Yv" version="16.3.0" type="github">
+  <diagram id="HyHHXCKGrjpw7wuj8hK8" name="第 1 页">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="heUzUsLVRTJ8t4FMbtVs-1" target="heUzUsLVRTJ8t4FMbtVs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-1" value="firefly" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="heUzUsLVRTJ8t4FMbtVs-2" target="heUzUsLVRTJ8t4FMbtVs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-2" value="构建/流水" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-3" value="weci" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-5" value="组件信息/模块信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-7" value="CLI脚本通过配置信息，生成工程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="heUzUsLVRTJ8t4FMbtVs-9" target="heUzUsLVRTJ8t4FMbtVs-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heUzUsLVRTJ8t4FMbtVs-9" value="firefly前端页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
