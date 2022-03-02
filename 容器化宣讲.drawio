@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T03:19:23.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="I4-IIgP6jq5DHtN8w2WX" version="16.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-02T05:38:44.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HNC_mSutjiCDQwC4XZrF" version="16.6.4" type="github" pages="8">
   <diagram id="0_xyXw7jxBEiflA4tzRB" name="第 1 页">
     <mxGraphModel dx="1926" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
       <root>
@@ -771,6 +771,14 @@
         <mxCell id="6LS8WIIBDQIGrA4TKq6H-29" value="MCCS发布平台" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="d0iKuXahAUtDmojsZ5sb-1">
           <mxGeometry x="610" y="140" width="100" height="45" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-jqplCqv_F98ATCoyZpZ" name="组件化-跨端引擎">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="JW5xng5TP7nznAHLciMq-0" />
+        <mxCell id="JW5xng5TP7nznAHLciMq-1" parent="JW5xng5TP7nznAHLciMq-0" />
       </root>
     </mxGraphModel>
   </diagram>
