@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T03:37:00.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="HzokQmuOEa_I6t14vNlp" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:12:22.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yZPbkjNGtKVkBPYa7kbQ" version="20.3.6" type="github" pages="2">
   <diagram id="VxY00Lw0QuELX6-MsShm" name="Page-1">
-    <mxGraphModel dx="1426" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,55 @@
             <Array as="points">
               <mxPoint x="490" y="570" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eE-f87DWaxFijDiMm6Zc" name="第 2 页">
+    <mxGraphModel dx="1426" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rimg79I2GgJtkR0dEppK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rimg79I2GgJtkR0dEppK-1" target="Rimg79I2GgJtkR0dEppK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-19" value="调用插件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rimg79I2GgJtkR0dEppK-18">
+          <mxGeometry x="-0.266" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-1" value="H5 前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-20" value="注入JS代码" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rimg79I2GgJtkR0dEppK-2" target="Rimg79I2GgJtkR0dEppK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-2" value="JSBridge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="120" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-3" value="插件" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="Rimg79I2GgJtkR0dEppK-6">
+          <mxGeometry width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-4" value="JS 代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rimg79I2GgJtkR0dEppK-6">
+          <mxGeometry x="40" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-5" value="原生代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Rimg79I2GgJtkR0dEppK-6">
+          <mxGeometry x="40" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="Rimg79I2GgJtkR0dEppK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="174.5" as="sourcePoint" />
+            <mxPoint x="280" y="175" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rimg79I2GgJtkR0dEppK-9" value="注册" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rimg79I2GgJtkR0dEppK-7">
+          <mxGeometry x="0.034" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
