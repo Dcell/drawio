@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T06:44:36.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="EcbfqJw2_ETVgkAdCdOH" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-16T06:48:31.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="b4BEbNs68PZEIVQZimCU" version="21.0.6" type="github" pages="2">
   <diagram id="8Ll88vAG64B_30g3c1Fw" name="第 1 页">
     <mxGraphModel dx="1434" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="600" math="0" shadow="0">
       <root>
@@ -249,8 +249,14 @@
         <mxCell id="3UgWSrFhK93uX8h1CyY5-53" value="1、规范化&lt;br&gt;2、链路追踪&lt;br&gt;3、日志Group&lt;br&gt;4、埋点校验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-487" y="334" width="120" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="3UgWSrFhK93uX8h1CyY5-57" value="插件&lt;br style=&quot;font-size: 14px;&quot;&gt;1、安全合规插件（屏蔽敏感词）&lt;br&gt;2、过滤插件&lt;br&gt;3、自定义插件（沉淀问题定位）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="3UgWSrFhK93uX8h1CyY5-57" value="插件&lt;br&gt;1、过滤插件&lt;br&gt;2、自定义插件（常见问题定位）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-487" y="427" width="119" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="3UgWSrFhK93uX8h1CyY5-59" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-326" y="99" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3UgWSrFhK93uX8h1CyY5-60" value="插件&lt;br style=&quot;font-size: 14px;&quot;&gt;1、安全合规插件（屏蔽敏感词）&lt;br&gt;2、网络日志插件&lt;br&gt;3、链路追踪插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-459" y="97" width="119" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
