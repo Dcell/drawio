@@ -1,55 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="yntGZ3up2LK_A9nUzxQe">
-    <mxGraphModel dx="1446" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="491" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;fontColor=light-dark(#000000,#FFB570);" value="国内logstash（全部自建）" vertex="1">
-          <mxGeometry height="130" width="560" x="90" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;fontColor=light-dark(#000000,#FFB570);" value="国内ES集群组（自建）" vertex="1">
-          <mxGeometry height="130" width="483" x="107" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-1" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="云联报警(云厂商)" vertex="1">
-          <mxGeometry height="48" width="48" x="130" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-2" parent="bWsygoVYphykXA5LwPFa-1" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
-          <mxGeometry height="24" relative="1" width="24" as="geometry">
-            <mxPoint x="12" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-3" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="云睿报警" vertex="1">
-          <mxGeometry height="48" width="48" x="220" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-4" parent="bWsygoVYphykXA5LwPFa-3" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
-          <mxGeometry height="24" relative="1" width="24" as="geometry">
-            <mxPoint x="12" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-5" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="业务中台" vertex="1">
-          <mxGeometry height="48" width="48" x="312" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-6" parent="bWsygoVYphykXA5LwPFa-5" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
-          <mxGeometry height="24" relative="1" width="24" as="geometry">
-            <mxPoint x="12" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-7" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="大数据集群" vertex="1">
-          <mxGeometry height="48" width="48" x="408.4" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-8" parent="bWsygoVYphykXA5LwPFa-7" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
-          <mxGeometry height="24" relative="1" width="24" as="geometry">
-            <mxPoint x="12" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-9" parent="1" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="云睿业务" vertex="1">
-          <mxGeometry height="48" width="48" x="500" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-10" parent="bWsygoVYphykXA5LwPFa-9" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
-          <mxGeometry height="24" relative="1" width="24" as="geometry">
-            <mxPoint x="12" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xMqHMf_M8xcfJooKrxRU-8" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" value="云联报警-&lt;div&gt;API&lt;/div&gt;" vertex="1">
           <mxGeometry height="48" width="50" x="217" y="50" as="geometry" />
         </mxCell>
@@ -125,42 +79,6 @@
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-18" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_workflows_for_apache_airflow;" value="&lt;div&gt;Dolphinscheduler&lt;/div&gt;" vertex="1">
           <mxGeometry height="78" width="78" x="670" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云联、云睿消息" vertex="1">
-          <mxGeometry height="40" width="80" x="98" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云睿业务" vertex="1">
-          <mxGeometry height="40" width="80" x="190" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云睿报警" vertex="1">
-          <mxGeometry height="40" width="80" x="280" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-成都" vertex="1">
-          <mxGeometry height="40" width="80" x="371.7" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云联报警" vertex="1">
-          <mxGeometry height="40" width="80" x="467.4" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-大数据自用" vertex="1">
-          <mxGeometry height="40" width="80" x="560" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-32" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="94.69999999999993" width="60" x="76" y="630.1" as="geometry" />
-        </mxCell>
-        <mxCell id="bWsygoVYphykXA5LwPFa-11" parent="Dqyi56Jnz3A_fiCg3MWh-32" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.clickhouse;verticalAlign=bottom;" value="" vertex="1">
-          <mxGeometry height="54.900000000000006" width="48" x="6" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-31" parent="Dqyi56Jnz3A_fiCg3MWh-32" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clickhouse-业务统计数据" vertex="1">
-          <mxGeometry height="30" width="60" y="64.69999999999993" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-34" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="85.10000000000002" width="60" x="163" y="639.9" as="geometry" />
-        </mxCell>
-        <mxCell id="xMqHMf_M8xcfJooKrxRU-6" parent="Dqyi56Jnz3A_fiCg3MWh-34" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.clickhouse;verticalAlign=bottom;" value="" vertex="1">
-          <mxGeometry height="54.900000000000006" width="48" x="5.699999999999989" as="geometry" />
-        </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-33" parent="Dqyi56Jnz3A_fiCg3MWh-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clickhouse-日志数据（自建）" vertex="1">
-          <mxGeometry height="30" width="60" y="55.10000000000002" as="geometry" />
-        </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-37" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="80" width="57" x="233" y="580" as="geometry" />
         </mxCell>
@@ -179,8 +97,108 @@
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-36" parent="Dqyi56Jnz3A_fiCg3MWh-38" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hadoop集群（自建）" vertex="1">
           <mxGeometry height="30" width="60" y="52.299999999999955" as="geometry" />
         </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-40" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="70" width="60" x="486" y="630" as="geometry" />
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-52" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="200" x="70" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-48" parent="Dqyi56Jnz3A_fiCg3MWh-52" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;fontColor=light-dark(#000000,#FFB570);" value="clickhouse 集群组" vertex="1">
+          <mxGeometry height="130" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-34" connectable="0" parent="Dqyi56Jnz3A_fiCg3MWh-52" style="group" value="" vertex="1">
+          <mxGeometry height="85.10000000000002" width="60" x="100" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xMqHMf_M8xcfJooKrxRU-6" parent="Dqyi56Jnz3A_fiCg3MWh-34" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.clickhouse;verticalAlign=bottom;" value="" vertex="1">
+          <mxGeometry height="54.900000000000006" width="48" x="5.699999999999989" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-33" parent="Dqyi56Jnz3A_fiCg3MWh-34" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clickhouse-日志数据（自建）" vertex="1">
+          <mxGeometry height="30" width="60" y="64.10000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-49" connectable="0" parent="Dqyi56Jnz3A_fiCg3MWh-52" style="group" value="" vertex="1">
+          <mxGeometry height="94.69999999999993" width="60" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-11" parent="Dqyi56Jnz3A_fiCg3MWh-49" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.clickhouse;verticalAlign=bottom;" value="" vertex="1">
+          <mxGeometry height="54.900000000000006" width="48" x="6" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-31" parent="Dqyi56Jnz3A_fiCg3MWh-49" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clickhouse-业务统计数据" vertex="1">
+          <mxGeometry height="30" width="60" y="64.69999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-53" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="560" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-27" parent="Dqyi56Jnz3A_fiCg3MWh-53" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;fontColor=light-dark(#000000,#FFB570);" value="国内logstash（全部自建）" vertex="1">
+          <mxGeometry height="130" width="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-20" parent="Dqyi56Jnz3A_fiCg3MWh-53" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云联、云睿消息" vertex="1">
+          <mxGeometry height="40" width="80" x="8" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-22" parent="Dqyi56Jnz3A_fiCg3MWh-53" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云睿业务" vertex="1">
+          <mxGeometry height="40" width="80" x="100" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-23" parent="Dqyi56Jnz3A_fiCg3MWh-53" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云睿报警" vertex="1">
+          <mxGeometry height="40" width="80" x="190" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-24" parent="Dqyi56Jnz3A_fiCg3MWh-53" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-成都" vertex="1">
+          <mxGeometry height="40" width="80" x="281.7" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-25" parent="Dqyi56Jnz3A_fiCg3MWh-53" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-云联报警" vertex="1">
+          <mxGeometry height="40" width="80" x="377.4" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-26" parent="Dqyi56Jnz3A_fiCg3MWh-53" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-大数据自用" vertex="1">
+          <mxGeometry height="40" width="80" x="470" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-54" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="483" x="107" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-17" parent="Dqyi56Jnz3A_fiCg3MWh-54" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;fontColor=light-dark(#000000,#FFB570);" value="国内ES集群组（自建）" vertex="1">
+          <mxGeometry height="130" width="483" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-1" parent="Dqyi56Jnz3A_fiCg3MWh-54" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="云联报警(云厂商)" vertex="1">
+          <mxGeometry height="48" width="48" x="23" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-2" parent="bWsygoVYphykXA5LwPFa-1" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-3" parent="Dqyi56Jnz3A_fiCg3MWh-54" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="云睿报警" vertex="1">
+          <mxGeometry height="48" width="48" x="113" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-4" parent="bWsygoVYphykXA5LwPFa-3" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-5" parent="Dqyi56Jnz3A_fiCg3MWh-54" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="业务中台" vertex="1">
+          <mxGeometry height="48" width="48" x="205" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-6" parent="bWsygoVYphykXA5LwPFa-5" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-7" parent="Dqyi56Jnz3A_fiCg3MWh-54" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="大数据集群" vertex="1">
+          <mxGeometry height="48" width="48" x="301.4" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-8" parent="bWsygoVYphykXA5LwPFa-7" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-9" parent="Dqyi56Jnz3A_fiCg3MWh-54" style="shape=rect;fillColor=#0F62FE;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" value="云睿业务" vertex="1">
+          <mxGeometry height="48" width="48" x="393" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bWsygoVYphykXA5LwPFa-10" parent="bWsygoVYphykXA5LwPFa-9" style="fillColor=#ffffff;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.database--elastic" value="" vertex="1">
+          <mxGeometry height="24" relative="1" width="24" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-55" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="240" x="470" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-50" parent="Dqyi56Jnz3A_fiCg3MWh-55" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=bottom;fontColor=light-dark(#000000,#FFB570);" value="kafka 集群组" vertex="1">
+          <mxGeometry height="120" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-40" connectable="0" parent="Dqyi56Jnz3A_fiCg3MWh-55" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="23" y="13.350000000000023" as="geometry" />
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-30" parent="Dqyi56Jnz3A_fiCg3MWh-40" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" value="" vertex="1">
           <mxGeometry height="40" width="54" as="geometry" />
@@ -188,23 +206,23 @@
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-39" parent="Dqyi56Jnz3A_fiCg3MWh-40" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kafka-业务" vertex="1">
           <mxGeometry height="30" width="60" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-41" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="70" width="60" x="560" y="630" as="geometry" />
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-41" connectable="0" parent="Dqyi56Jnz3A_fiCg3MWh-55" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="90" y="10" as="geometry" />
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-42" parent="Dqyi56Jnz3A_fiCg3MWh-41" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" value="" vertex="1">
-          <mxGeometry height="40" width="54" as="geometry" />
+          <mxGeometry height="40" width="54" y="3" as="geometry" />
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-43" parent="Dqyi56Jnz3A_fiCg3MWh-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kafka-数据中台（自建）" vertex="1">
-          <mxGeometry height="30" width="60" y="40" as="geometry" />
+          <mxGeometry height="30" width="60" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-44" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="70" width="60" x="627.4" y="630" as="geometry" />
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-44" connectable="0" parent="Dqyi56Jnz3A_fiCg3MWh-55" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="60" x="160" y="10" as="geometry" />
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-45" parent="Dqyi56Jnz3A_fiCg3MWh-44" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" value="" vertex="1">
-          <mxGeometry height="40" width="54" as="geometry" />
+          <mxGeometry height="40" width="54" y="3" as="geometry" />
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-46" parent="Dqyi56Jnz3A_fiCg3MWh-44" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kafka-运维" vertex="1">
-          <mxGeometry height="30" width="60" y="40" as="geometry" />
+          <mxGeometry height="30" width="60" y="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
