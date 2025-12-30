@@ -264,7 +264,7 @@
           <mxGeometry height="48" width="50" x="730" y="49" as="geometry" />
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-79" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" value="运维-钉钉报警" vertex="1">
-          <mxGeometry height="48" width="50" x="740" y="473" as="geometry" />
+          <mxGeometry height="48" width="50" x="740" y="471" as="geometry" />
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-80" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" value="运维-数据" vertex="1">
           <mxGeometry height="48" width="50" x="816" y="470" as="geometry" />
