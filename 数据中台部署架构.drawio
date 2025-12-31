@@ -307,6 +307,14 @@
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-119" edge="1" parent="1" source="Dqyi56Jnz3A_fiCg3MWh-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.142;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" target="Dqyi56Jnz3A_fiCg3MWh-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-124" edge="1" parent="1" source="Dqyi56Jnz3A_fiCg3MWh-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Dqyi56Jnz3A_fiCg3MWh-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="760" />
+              <mxPoint x="564" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据源（mysql、消息推送）等等" vertex="1">
           <mxGeometry height="60" width="840" x="90" y="970" as="geometry" />
         </mxCell>
@@ -338,6 +346,34 @@
         </mxCell>
         <mxCell id="Dqyi56Jnz3A_fiCg3MWh-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=light-dark(#FFFFFF,#0066CC);align=center;verticalAlign=middle;rounded=0;gradientColor=none;" value="Logstash-大数据自用" vertex="1">
           <mxGeometry height="52.30769230769231" width="80" x="295" y="500.00461538461536" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-122" edge="1" parent="1" source="Dqyi56Jnz3A_fiCg3MWh-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dqyi56Jnz3A_fiCg3MWh-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="750" />
+              <mxPoint x="210" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-123" edge="1" parent="1" source="Dqyi56Jnz3A_fiCg3MWh-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Dqyi56Jnz3A_fiCg3MWh-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-126" edge="1" parent="1" source="Dqyi56Jnz3A_fiCg3MWh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.305;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dqyi56Jnz3A_fiCg3MWh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-127" edge="1" parent="1" source="Dqyi56Jnz3A_fiCg3MWh-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Dqyi56Jnz3A_fiCg3MWh-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="840" />
+              <mxPoint x="820" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-128" edge="1" parent="1" source="Dqyi56Jnz3A_fiCg3MWh-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Dqyi56Jnz3A_fiCg3MWh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dqyi56Jnz3A_fiCg3MWh-121" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="170" width="300" x="90" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
